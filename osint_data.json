@@ -1,0 +1,136 @@
+{
+    "categories": [
+        {
+            "id": "68029ab544b04",
+            "name": "Social Media",
+            "icon": "bi-person-lines-fill"
+        },
+        {
+            "id": "68029ab544b0d",
+            "name": "Web Analysis",
+            "icon": "bi-globe"
+        },
+        {
+            "id": "68029ab544b0e",
+            "name": "Maps",
+            "icon": "bi-geo-alt"
+        },
+        {
+            "id": "68029ab544b0f",
+            "name": "People",
+            "icon": "bi-person"
+        },
+        {
+            "id": "68029ab544b10",
+            "name": "Satellite Imagery",
+            "icon": "bi-image"
+        },
+        {
+            "id": "68029ab544b11",
+            "name": "News",
+            "icon": "bi-newspaper"
+        },
+        {
+            "id": "68029ab544b12",
+            "name": "Transport",
+            "icon": "bi-truck"
+        },
+        {
+            "id": "68029ab544b13",
+            "name": "Finance",
+            "icon": "bi-currency-dollar"
+        },
+        {
+            "id": "68029ab544b14",
+            "name": "Tools",
+            "icon": "bi-tools"
+        },
+        {
+            "id": "68029ab544b15",
+            "name": "Image Analysis",
+            "icon": "bi-camera"
+        },
+        {
+            "id": "68029ab544b16",
+            "name": "Terrorism",
+            "icon": "bi-exclamation-triangle"
+        },
+        {
+            "id": "68029ab544b17",
+            "name": "Leaks",
+            "icon": "bi-file-earmark-break"
+        },
+        {
+            "id": "68029ab544b18",
+            "name": "Metadata",
+            "icon": "bi-file-code"
+        },
+        {
+            "id": "68029ab544b19",
+            "name": "Dark Web",
+            "icon": "bi-incognito"
+        },
+        {
+            "id": "68029ab544b1a",
+            "name": "Search Engines",
+            "icon": "bi-search"
+        },
+        {
+            "id": "68029ab544b1b",
+            "name": "Training",
+            "icon": "bi-book"
+        }
+    ],
+    "links": [
+        {
+            "id": "link1",
+            "category_id": "68029ab544b1a",
+            "name": "Google",
+            "url": "https:\/\/www.google.com",
+            "description": "Popular search engine",
+            "type": "Tool",
+            "tags": "search, web",
+            "clicks": 0
+        },
+        {
+            "id": "link2",
+            "category_id": "68029ab544b04",
+            "name": "Twitter",
+            "url": "https:\/\/www.twitter.com",
+            "description": "Social media platform for real-time updates",
+            "type": "Platform",
+            "tags": "social, microblogging",
+            "clicks": 0
+        },
+        {
+            "id": "link3",
+            "category_id": "68029ab544b0e",
+            "name": "Google Maps",
+            "url": "https:\/\/maps.google.com",
+            "description": "Mapping and navigation service",
+            "type": "Tool",
+            "tags": "maps, navigation",
+            "clicks": 0
+        },
+        {
+            "id": "link4",
+            "category_id": "68029ab544b11",
+            "name": "BBC News",
+            "url": "https:\/\/www.bbc.com\/news",
+            "description": "International news outlet",
+            "type": "Source",
+            "tags": "news, international",
+            "clicks": 0
+        },
+        {
+            "id": "link5",
+            "category_id": "68029ab544b14",
+            "name": "LexisNexis",
+            "url": "https:\/\/www.lexisnexis.com",
+            "description": "Public records and legal research",
+            "type": "Database",
+            "tags": "records, legal",
+            "clicks": 0
+        }
+    ]
+}
